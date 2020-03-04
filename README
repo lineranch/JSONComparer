@@ -1,0 +1,4 @@
+ASSUMPTIONS:
+    The JSON files are in the same directory as the python script
+    Each JSON sample file will be compared against the Master JSON file
+    The script will be printing the result
