@@ -3,6 +3,6 @@ NOTES:
 
 ASSUMPTIONS:
     The JSON files are in the same directory as the python script
-    Similarity will be calculated based on values, arrays, and objects, not necessarily how the document is formatted
+    Similarity will be calculated based on values, arrays, and objects; not necessarily how the document is formatted
     The script will be printing the result, not returning
     Only two scripts can be compared at a time
