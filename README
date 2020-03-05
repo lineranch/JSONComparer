@@ -1,3 +1,6 @@
+NOTES:
+    the python library scipy is needed for this script!
+
 ASSUMPTIONS:
     The JSON files are in the same directory as the python script
     Similarity will be calculated based on values, arrays, and objects, not necessarily how the document is formatted
