@@ -1,5 +1,5 @@
 NOTES:
-    the python library scipy is needed for this script!
+    The python library scipy is needed for this script!
 
 ASSUMPTIONS:
     The JSON files are in the same directory as the python script
